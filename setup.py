@@ -23,5 +23,6 @@ setup(
         'redis',
         'gevent',
         'urwid',
+        'prometheus_client',
     ],
 )
